@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;OrangeHRMApplication_1&apos; to &apos;OrangeHRMApplication_Cucumber Framework&apos;&#x0D;&#x0A;- Original element: &apos;OrangeHRMApplication_1&apos;&#x0D;&#x0A;- Renamed element: &apos;OrangeHRMApplication_1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;OrangeHRMApplication_1&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=OrangeHRMApplication_1" name="OrangeHRMApplication_Cucumber Framework" references="true" stamp="1709630533078" version="1.0"/>
+</session>

@@ -1,0 +1,28 @@
+package com.Utility;
+
+import org.apache.log4j.PropertyConfigurator;
+import org.testng.log4testng.Logger;
+
+public class Log 
+{
+	
+	public static Class log=Logger.getLogger(log);
+	
+	public static void info(String message)
+	{
+		
+		PropertyConfigurator.configure("Log4j.properties");
+		log.info(message);
+	}
+		
+		
+		public static Logger log1 = Logger.getLogger("Log");
+
+		public static void info1(String message)
+		{
+		PropertyConfigurator.configure("Log4j.properties");
+		log.info(message);
+		
+	}
+
+}

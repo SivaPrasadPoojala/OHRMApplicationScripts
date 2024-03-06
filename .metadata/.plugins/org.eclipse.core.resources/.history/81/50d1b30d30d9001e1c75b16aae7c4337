@@ -1,0 +1,15 @@
+<suite name="OrangeHRMApplication" parallel="tests">
+   
+   <test name="TSRTC_CapturingScreenShotsOfMenuBar">
+      <classes>
+         <class name="com.TSRTC"/>
+      </classes>
+    </test>
+   
+   
+     <test name="TSRTC_HeaderBlock_DisplayingLinksNames">
+      <classes>
+         <class name="com.TSRTC"/>
+      </classes>
+  </test>
+</suite>
